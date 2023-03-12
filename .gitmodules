@@ -1,0 +1,9 @@
+[submodule "Generative-Adversarial-Networks"]
+	path = Generative-Adversarial-Networks
+	url = https://github.com/guanidine/Generative-Adversarial-Networks.git
+[submodule "Machine-Learning-Basics"]
+	path = Machine-Learning-Basics
+	url = https://github.com/guanidine/Machine-Learning-Basics.git
+[submodule "Sequence-to-Sequence"]
+	path = Sequence-to-Sequence
+	url = https://github.com/guanidine/Sequence-to-Sequence.git
