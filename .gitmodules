@@ -7,3 +7,6 @@
 [submodule "Sequence-to-Sequence"]
 	path = Sequence-to-Sequence
 	url = https://github.com/guanidine/Sequence-to-Sequence.git
+[submodule "Object-Detection"]
+	path = Object-Detection
+	url = https://github.com/guanidine/Object-Detection.git
